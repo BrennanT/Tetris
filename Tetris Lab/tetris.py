@@ -205,7 +205,7 @@ def draw_l_mirrored():
 
 def main():
     """
-    Urlize the functions to satisfy the lab requirements.
+    Utilize the functions to satisfy the lab requirements.
     """
     init()
     draw_board()
