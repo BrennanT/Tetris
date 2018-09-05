@@ -204,7 +204,9 @@ def draw_l_mirrored():
 
 
 def main():
-    turtle.speed(11)
+    """
+    Urlize the functions to satisfy the lab requirements.
+    """
     init()
     draw_board()
     draw_l()
